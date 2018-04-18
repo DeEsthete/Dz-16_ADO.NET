@@ -1,0 +1,16 @@
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\Dz-16.exe.config
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\Dz-16.exe
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\Dz-16.pdb
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\EntityFramework.dll
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\EntityFramework.xml
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\павлове\source\repos\Dz-16\Dz-16\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz-16.csprojResolveAssemblyReference.cache
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz-16.csproj.CoreCompileInputs.cache
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz-16.csproj.CopyComplete
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz-16.exe
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz-16.pdb
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz_16.Migrations.InitialCreate.resources
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz-16.csproj.GenerateResource.cache
+c:\users\павлове\source\repos\Dz-16\Dz-16\obj\Debug\Dz_16.Migrations.AddTextAge.resources
